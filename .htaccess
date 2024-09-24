@@ -1,0 +1,16 @@
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
+# BEGIN Simply Static
+# Las directivas (líneas) entre «BEGIN Simply Static» y «END Simply Static» son
+# generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
+# Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
+<Files "C:\xampp\htdocs\menu/wp-content/uploads\simply-static\41ed56bc016f9338f8e9cd7d9fe9212d-debug.txt">
+require all denied
+require host localhost
+</Files>
+# END Simply Static
